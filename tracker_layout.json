@@ -1,0 +1,68 @@
+{
+  "map_enabled": true,
+  "auto_pin_capturing_locations": false,
+  "auto_unpin_on_clear": true,
+  "allow_resize": false,
+  "layout_swap_left_right": false,
+  "disabled_image_filter": "grayscale, dim",
+  "layouts": {
+    "shared_item_grid": {
+      "type": "array",
+      "orientation": "vertical",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "name": "Items & Equipment",
+              "type": "itemgrid",
+              "h_alignment": "right",
+              "item_size": 32,
+              "margin": "5,2,5,0",
+              "items_margin": "0,0,2,10",
+              "rows": [
+                ["sticks","nuts","bombs","fairy_bow","fire_arrows","dins_fire"],
+                ["fairy_slingshot","ocarina","bombchu","hookshot","ice_arrows","farores_wind"],
+                ["boomerang","lens_of_truth","magic_beans","megaton_hammer","light_arrows","nayrus_love"],
+                ["bottle_1","bottle_2","bottle_3","bottle_4","adult_trade_item","child_trade_item"],
+                ["kokiri_sword","master_sword","biggorons_sword","deku_shield","hylian_shield","mirror_shield"],
+                ["kokiri_tunic","goron_tunic","zora_tunic","kokiri_boots","iron_boots","hover_boots"],
+                ["golden_skulltullas","wallet_capacity","scale","strength","gerudo_card","stone_of_agony"]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "name": "Ocarina Songs",
+              "type": "itemgrid",
+              "h_alignment": "right",
+              "item_size": 32,
+              "margin": "5,2,5,0",
+              "items_margin": "0,0,2,10",
+              "rows": [
+                ["zeldas_lullaby","eponas_song","sarias_song","suns_song","song_of_time","song_of_storms"],
+                ["minuet_of_forest","bolero_of_fire","serenade_of_water","requiem_of_spirit","nocturne_of_shadow","prelude_of_light"]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "tracker_default": {
+      "type": "container",
+      "width": 350,
+      "background": "#212121",
+      "content": {
+        "type": "layout",
+        "dropshadow": false,
+        "margin": 10,
+        "key": "shared_item_grid"
+      }
+    },
+  }
+}

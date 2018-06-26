@@ -1,0 +1,656 @@
+[
+  {
+    "name": "Deku Sticks",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/vanilla/items/deku_sticks/deku_sticks.png",
+        "img_mods": "@disabled",
+        "codes": "deku_sticks,deku_stick,sticks,stick"
+      },
+      {
+        "img": "images/vanilla/items/deku_sticks/deku_sticks_default.png"
+      },
+      {
+        "img": "images/vanilla/items/deku_sticks/deku_sticks_upgrade_1.png"
+      },
+      {
+        "img": "images/vanilla/items/deku_sticks/deku_sticks_upgrade_2.png"
+      }
+    ]
+  },
+  {
+    "name": "Deku Nuts",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/vanilla/items/deku_nuts/deku_nuts.png",
+        "img_mods": "@disabled",
+        "codes": "deku_nuts,deku_nut,nuts,nut"
+      },
+      {
+        "img": "images/vanilla/items/deku_nuts/deku_nuts_default.png"
+      },
+      {
+        "img": "images/vanilla/items/deku_nuts/deku_nuts_upgrade_1.png"
+      },
+      {
+        "img": "images/vanilla/items/deku_nuts/deku_nuts_upgrade_2.png"
+      }
+    ]
+  },
+  {
+    "name": "Bombs",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/vanilla/items/bombs/bombs.png",
+        "img_mods": "@disabled",
+        "codes": "bombs,bomb"
+      },
+      {
+        "img": "images/vanilla/items/bombs/bombs_default.png"
+      },
+      {
+        "img": "images/vanilla/items/bombs/bombs_upgrade_1.png"
+      },
+      {
+        "img": "images/vanilla/items/bombs/bombs_upgrade_2.png"
+      }
+    ]
+  },
+  {
+    "name": "Fairy Bow",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/vanilla/items/fairy_bow/fairy_bow.png",
+        "img_mods": "@disabled",
+        "codes": "fairy_bow,bow"
+      },
+      {
+        "img": "images/vanilla/items/fairy_bow/fairy_bow_default.png"
+      },
+      {
+        "img": "images/vanilla/items/fairy_bow/fairy_bow_upgrade_1.png"
+      },
+      {
+        "img": "images/vanilla/items/fairy_bow/fairy_bow_upgrade_2.png"
+      }
+    ]
+  },
+  {
+    "name": "Fire Arrows",
+    "type": "toggle",
+    "img": "images/vanilla/items/fire_arrows/fire_arrows.png",
+    "codes": "fire_arrows,fire_arrow"
+  },
+  {
+    "name": "Dins Fire",
+    "type": "toggle",
+    "img": "images/vanilla/items/dins_fire/dins_fire.png",
+    "codes": "dins_fire,dins"
+  },
+  {
+    "name": "Fairy Slingshot",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/vanilla/items/fairy_slingshot/fairy_slingshot.png",
+        "img_mods": "@disabled",
+        "codes": "fairy_slingshot,slingshot"
+      },
+      {
+        "img": "images/vanilla/items/fairy_slingshot/fairy_slingshot_default.png"
+      },
+      {
+        "img": "images/vanilla/items/fairy_slingshot/fairy_slingshot_upgrade_1.png"
+      },
+      {
+        "img": "images/vanilla/items/fairy_slingshot/fairy_slingshot_upgrade_2.png"
+      }
+    ]
+  },
+  {
+    "name": "Fairy Ocarina & Ocarina of Time",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/vanilla/items/ocarina/fairy_ocarina.png",
+        "img_mods": "@disabled",
+        "codes": "ocarina,fairy_ocarina,ocarina_of_time,oot"
+      },
+      {
+        "img": "images/vanilla/items/ocarina/fairy_ocarina.png"
+      },
+      {
+        "img": "images/vanilla/items/ocarina/ocarina_of_time.png"
+      }
+    ]
+  },
+  {
+    "name": "Bombchus",
+    "type": "toggle",
+    "img": "images/vanilla/items/bombchus/bombchus.png",
+    "codes": "bombchus,bombchu"
+  },
+  {
+    "name": "Hookshot & Longshot",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/vanilla/items/hookshot/hookshot_default.png",
+        "img_mods": "@disabled",
+        "codes": "hookshot,longshot"
+      },
+      {
+        "img": "images/vanilla/items/hookshot/hookshot.png"
+      },
+      {
+        "img": "images/vanilla/items/longshot/longshot.png"
+      }
+    ]
+  },
+  {
+    "name": "Ice Arrows",
+    "type": "toggle",
+    "img": "images/vanilla/items/fire_arrows/fire_arrows.png",
+    "codes": "ice_arrows,ice_arrow"
+  },
+  {
+    "name": "Farore's Wind",
+    "type": "toggle",
+    "img": "images/vanilla/items/farores_wind/farores_wind.png",
+    "codes": "farores_wind,farores"
+  },
+  {
+    "name": "Boomerang",
+    "type": "toggle",
+    "img": "images/vanilla/items/boomerang/boomerang.png",
+    "codes": "boomerang"
+  },
+  {
+    "name": "Lens of Truth",
+    "type": "toggle",
+    "img": "images/vanilla/items/lens_of_truth/lens_of_truth.png",
+    "codes": "lens_of_truth,lens"
+  },
+  {
+    "name": "Magic Beans",
+    "type": "toggle",
+    "img": "images/vanilla/items/magic_beans/magic_beans.png",
+    "codes": "magic_beans,beans,bean"
+  },
+  {
+    "name": "Megaton Hammer",
+    "type": "toggle",
+    "img": "images/vanilla/items/megaton_hammer/megaton_hammer.png",
+    "codes": "megaton_hammer,hammer"
+  },
+  {
+    "name": "Light Arrows",
+    "type": "toggle",
+    "img": "images/vanilla/items/light_arrows/light_arrows.png",
+    "codes": "light_arrows,light_arrow"
+  },
+  {
+    "name": "Nayru's Love",
+    "type": "toggle",
+    "img": "images/vanilla/items/nayrus_love/nayrus_love.png",
+    "codes": "nayrus_love,nayrus"
+  },
+  {
+    "name": "Bottle Slot #1",
+    "type": "toggle",
+    "img": "images/vanilla/items/bottle/bottle.png",
+    "codes": "bottle_slot_1,bottle_1"
+  },
+  {
+    "name": "Bottle Slot #2",
+    "type": "toggle",
+    "img": "images/vanilla/items/bottle/bottle.png",
+    "codes": "bottle_slot_2,bottle_2"
+  },
+  {
+    "name": "Bottle Slot #3",
+    "type": "toggle",
+    "img": "images/vanilla/items/bottle/bottle.png",
+    "codes": "bottle_slot_3,bottle_3"
+  },
+  {
+    "name": "Bottle Slot #4",
+    "type": "toggle",
+    "img": "images/vanilla/items/bottle/bottle.png",
+    "codes": "bottle_slot_4,bottle_4"
+  },
+  {
+    "name": "Adult Trade Quest Items",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/vanilla/items/adult_trade_quest/pocket_egg.png",
+        "img_mods": "@disabled",
+        "codes": "adult_trade_quest,adult_trade_item,adult_trade"
+      },
+      {
+        "img": "images/vanilla/items/adult_trade_quest/pocket_egg.png"
+      },
+      {
+        "img": "images/vanilla/items/adult_trade_quest/pocket_cucco.png"
+      },
+      {
+        "img": "images/vanilla/items/adult_trade_quest/cojiro.png"
+      },
+      {
+        "img": "images/vanilla/items/adult_trade_quest/odd_mushroom.png"
+      },
+      {
+        "img": "images/vanilla/items/adult_trade_quest/odd_potion.png"
+      },
+      {
+        "img": "images/vanilla/items/adult_trade_quest/poachers_saw.png"
+      },
+      {
+        "img": "images/vanilla/items/adult_trade_quest/gorons_sword_broken.png"
+      },
+      {
+        "img": "images/vanilla/items/adult_trade_quest/prescription.png"
+      },
+      {
+        "img": "images/vanilla/items/adult_trade_quest/eyeball_frog.png"
+      },
+      {
+        "img": "images/vanilla/items/adult_trade_quest/eye_drops.png"
+      },
+      {
+        "img": "images/vanilla/items/adult_trade_quest/claim_check.png"
+      }
+    ]
+  },
+  {
+    "name": "Child Trade Quest Items",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/vanilla/items/child_trade_quest/weird_egg.png",
+        "img_mods": "@disabled",
+        "codes": "child_trade_quest,child_trade_item,child_trade"
+      },
+      {
+        "img": "images/vanilla/items/child_trade_quest/weird_egg.png"
+      },
+      {
+        "img": "images/vanilla/items/child_trade_quest/chicken.png"
+      },
+      {
+        "img": "images/vanilla/items/child_trade_quest/zeldas_letter.png"
+      },
+      {
+        "img": "images/vanilla/items/child_trade_quest/keaton_mask.png"
+      },
+      {
+        "img": "images/vanilla/items/child_trade_quest/skull_mask.png"
+      },
+      {
+        "img": "images/vanilla/items/child_trade_quest/bunny_hood.png"
+      },
+      {
+        "img": "images/vanilla/items/child_trade_quest/mask_of_truth.png"
+      },
+      {
+        "img": "images/vanilla/items/child_trade_quest/goron_mask.png"
+      },
+      {
+        "img": "images/vanilla/items/child_trade_quest/zora_mask.png"
+      },
+      {
+        "img": "images/vanilla/items/child_trade_quest/gerudo_mask.png"
+      }
+    ]
+  },
+  {
+    "name": "Kokiri Sword",
+    "type": "toggle",
+    "img": "images/vanilla/equipment/swords/kokiri_sword.png",
+    "codes": "kokiri_sword"
+  },
+  {
+    "name": "Master Sword",
+    "type": "toggle",
+    "img": "images/vanilla/equipment/swords/master_sword.png",
+    "codes": "master_sword"
+  },
+  {
+    "name": "Biggoron's Sword",
+    "type": "toggle",
+    "img": "images/vanilla/equipment/swords/biggorons_sword.png",
+    "codes": "biggorons_sword"
+  },
+  {
+    "name": "Deku Shield",
+    "type": "toggle",
+    "img": "images/vanilla/equipment/shields/deku_shield.png",
+    "codes": "deku_shield"
+  },
+  {
+    "name": "Hylian Shield",
+    "type": "toggle",
+    "img": "images/vanilla/equipment/shields/hylian_shield.png",
+    "codes": "hylian_shield"
+  },
+  {
+    "name": "Mirror Shield",
+    "type": "toggle",
+    "img": "images/vanilla/equipment/shields/mirror_shield.png",
+    "codes": "mirror_shield"
+  },
+  {
+    "name": "Kokiri Tunic",
+    "type": "static",
+    "img": "images/vanilla/equipment/tunics/kokiri_tunic.png",
+    "codes": "kokiri_tunic"
+  },
+  {
+    "name": "Goron Tunic",
+    "type": "toggle",
+    "img": "images/vanilla/equipment/tunics/goron_tunic.png",
+    "codes": "goron_tunic"
+  },
+  {
+    "name": "Zora Tunic",
+    "type": "toggle",
+    "img": "images/vanilla/equipment/tunics/zora_tunic.png",
+    "codes": "zora_tunic"
+  },
+  {
+    "name": "Kokiri Boots",
+    "type": "static",
+    "img": "images/vanilla/equipment/boots/kokiri_boots.png",
+    "codes": "kokiri_boots"
+  },
+  {
+    "name": "Iron Boots",
+    "type": "toggle",
+    "img": "images/vanilla/equipment/boots/iron_boots.png",
+    "codes": "iron_boots"
+  },
+  {
+    "name": "Hover Boots",
+    "type": "toggle",
+    "img": "images/vanilla/equipment/boots/hover_boots.png",
+    "codes": "hover_boots"
+  },
+  {
+    "name": "Gold Skulltula Tokens",
+    "type": "consumable",
+    "img": "images/vanilla/quest_status/skulltullas/golden_skulltulla.png",
+    "codes": "golden_skulltullas,skulltullas",
+    "max_quantity": 100
+  },
+  {
+    "name": "Wallet Capacity",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/vanilla/equipment/wallet/basic_wallet.png",
+        "codes": "wallet_capacity,wallet"
+      },
+      {
+        "img": "images/vanilla/equipment/wallet/adults_wallet.png"
+      },
+      {
+        "img": "images/vanilla/equipment/wallet/giants_wallet.png"
+      }
+    ]
+  },
+  {
+    "name": "Scales",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/vanilla/equipment/scale/silver_scale.png",
+        "img_mods": "@disabled",
+        "codes": "scales,scale"
+      },
+      {
+        "img": "images/vanilla/equipment/scale/silver_scale.png"
+      },
+      {
+        "img": "images/vanilla/equipment/scale/gold_scale.png"
+      }
+    ]
+  },
+  {
+    "name": "Strength Upgrades",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/vanilla/equipment/strength/goron_bracelet.png",
+        "img_mods": "@disabled",
+        "codes": "strength"
+      },
+      {
+        "img": "images/vanilla/equipment/strength/silver_gauntlets.png"
+      },
+      {
+        "img": "images/vanilla/equipment/strength/golden_gauntlets.png"
+      }
+    ]
+  },
+  {
+    "name": "Gerudo Card",
+    "type": "toggle",
+    "img": "images/vanilla/quest_status/gerudo_card/gerudo_card_stylized.png",
+    "codes": "gerudo_card,gerudo_membership"
+  },
+  {
+    "name": "Stone of Agony",
+    "type": "toggle",
+    "img": "images/vanilla/quest_status/stone_of_agony/stone_of_agony.png",
+    "codes": "stone_of_agony,agony"
+  },
+  {
+    "name": "Zelda's Lullaby",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "codes": "zeldas_lullaby,lullaby",
+      },
+      {
+        "img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "disabled_img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "disabled_img_mods": "",
+        "codes": "zeldas_lullaby_check,lullaby_check",
+      }
+    ]
+  },
+  {
+    "name": "Epona's Song",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "codes": "eponas_song,eponas",
+      },
+      {
+        "img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "disabled_img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "disabled_img_mods": "",
+        "codes": "eponas_song_check,eponas_check",
+      }
+    ]
+  },
+  {
+    "name": "Saria's Song",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "codes": "sarias_song,sarias",
+      },
+      {
+        "img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "disabled_img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "disabled_img_mods": "",
+        "codes": "sarias_song_check,sarias_check",
+      }
+    ]
+  },
+  {
+    "name": "Suns's Song",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "codes": "suns_song,suns",
+      },
+      {
+        "img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "disabled_img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "disabled_img_mods": "",
+        "codes": "suns_song_check,suns_check",
+      }
+    ]
+  },
+  {
+    "name": "Song of Time",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "codes": "song_of_time,sot",
+      },
+      {
+        "img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "disabled_img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "disabled_img_mods": "",
+        "codes": "song_of_time_check,sot_check",
+      }
+    ]
+  },
+  {
+    "name": "Song of Storms",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "codes": "song_of_storms,storms",
+      },
+      {
+        "img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "disabled_img": "images/vanilla/quest_status/songs/standard/gray_note.png",
+        "disabled_img_mods": "",
+        "codes": "song_of_storms_check,storms_check",
+      }
+    ]
+  },
+  {
+    "name": "Minuet of Forest",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/vanilla/quest_status/songs/warp/minuet_of_forest.png",
+        "codes": "minuet_of_forest,minuet",
+      },
+      {
+        "img": "images/vanilla/quest_status/songs/warp/minuet_of_forest.png",
+        "disabled_img": "images/vanilla/quest_status/songs/warp/minuet_of_forest.png",
+        "disabled_img_mods": "",
+        "codes": "minuet_of_forest_check,minuet_check",
+      }
+    ]
+  },
+  {
+    "name": "Bolero of Fire",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/vanilla/quest_status/songs/warp/bolero_of_fire.png",
+        "codes": "bolero_of_fire,bolero",
+      },
+      {
+        "img": "images/vanilla/quest_status/songs/warp/bolero_of_fire.png",
+        "disabled_img": "images/vanilla/quest_status/songs/warp/bolero_of_fire.png",
+        "disabled_img_mods": "",
+        "codes": "bolero_of_fire_check,bolero_check",
+      }
+    ]
+  },
+  {
+    "name": "Serenade of Water",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/vanilla/quest_status/songs/warp/serenade_of_water.png",
+        "codes": "serenade_of_water,serenade",
+      },
+      {
+        "img": "images/vanilla/quest_status/songs/warp/serenade_of_water.png",
+        "disabled_img": "images/vanilla/quest_status/songs/warp/serenade_of_water.png",
+        "disabled_img_mods": "",
+        "codes": "serenade_of_water,serenade_check",
+      }
+    ]
+  },
+  {
+    "name": "Requiem of Spirit",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/vanilla/quest_status/songs/warp/requiem_of_spirit.png",
+        "codes": "requiem_of_spirit,requiem",
+      },
+      {
+        "img": "images/vanilla/quest_status/songs/warp/requiem_of_spirit.png",
+        "disabled_img": "images/vanilla/quest_status/songs/warp/requiem_of_spirit.png",
+        "disabled_img_mods": "",
+        "codes": "requiem_of_spirit,requiem",
+      }
+    ]
+  },
+  {
+    "name": "Nocturne of Shadow",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/vanilla/quest_status/songs/warp/nocturne_of_shadow.png",
+        "codes": "nocturne_of_shadow,nocturne",
+      },
+      {
+        "img": "images/vanilla/quest_status/songs/warp/nocturne_of_shadow.png",
+        "disabled_img": "images/vanilla/quest_status/songs/warp/nocturne_of_shadow.png",
+        "disabled_img_mods": "",
+        "codes": "nocturne_of_shadow_check,nocturne_check",
+      }
+    ]
+  },
+  {
+    "name": "Prelude of Light",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/vanilla/quest_status/songs/warp/prelude_of_light.png",
+        "codes": "prelude_of_light,prelude",
+      },
+      {
+        "img": "images/vanilla/quest_status/songs/warp/prelude_of_light.png",
+        "disabled_img": "images/vanilla/quest_status/songs/warp/prelude_of_light.png",
+        "disabled_img_mods": "",
+        "codes": "prelude_of_light_check,prelude_check",
+      }
+    ]
+  },
+]
