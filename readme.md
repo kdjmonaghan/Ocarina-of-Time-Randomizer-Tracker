@@ -10,18 +10,20 @@ Any issues or questions regarding this package, please feel free to contact me a
 
 # Installation
 
+_**Note: This package requires EmoTracker to work.**_
+
 Download the latest release from the [Releases](https://github.com/kdjmonaghan/Ocarina-of-Time-Randomizer-Tracker/releases) section of this repository to your local machine.
 
 Extract the contents to the following location, replacing _$user_ with your own account name on your computer:
 
 ```
-C:\Users\$user\OneDrive\Documents\EmoTracker\packs
+C:\Users\$user\Documents\EmoTracker\packs
 ```
 
 This package will now be listed in EmoTracker, to use it, do the following steps:
 
 ```
-Settings Cog -> Packages -> Installed Packages -> Ocarina of Time Randomizer - Item Tracker
+"Settings Cog" -> "Packages" -> "Installed Packages" -> "Ocarina of Time Randomizer - Item Tracker"
 ```
 
 # Credits
