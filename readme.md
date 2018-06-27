@@ -23,3 +23,5 @@ Any issues or questions regarding this package, please feel free to contact me a
 * The default sprite sheet used was ripped from Ocarina of Time by [KlydeStorm and can be downloaded from DeviantArt for Free](https://klydestorm.deviantart.com/art/Ocarina-of-Time-Icon-Pack-180384354) - I believe these are directly from the game itself, so, the icons themselves are copyright to Nintendo.
 
 * The small icons used for the Spiritual Stones and Medallions were created by [ChaosMiles07 and can be downloaded from DeviantArt for free](https://chaosmiles07.deviantart.com/art/Ocarina-of-Thyme-tribute-546094518) - these were custom made, but are obviously referenced off the copyrighted image that belongs to Nintendo.
+
+* Standard Wallet is a custom variation of the Adult's Wallet created by myself using references of capacity items such as Deku Nuts as well as modifying the Adult's Wallet icon.
