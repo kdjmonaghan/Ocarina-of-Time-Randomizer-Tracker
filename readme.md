@@ -30,7 +30,7 @@ This package will now be listed in EmoTracker, to use it, do the following steps
 
 ##### Base Inspiration
 
-* The base of this application was inspired by [JRJathome's](https://github.com/JRJathome)'s [Ocarina of Time Item Tracker](https://github.com/JRJathome/OoTRandoItemTracker) - I felt like his tracker was lacking things I personally would have liked, so, I created my own. Without using his tracker and not feeling satisfied with it, I doubt this one would exist.
+* The base of this application was inspired by [JRJathome's](https://github.com/JRJathome) [Ocarina of Time Item Tracker](https://github.com/JRJathome/OoTRandoItemTracker) - I felt like his tracker was lacking things I personally would have liked, so, I created my own. Without using his tracker and not feeling satisfied with it, I doubt this one would exist.
 
 ##### Fonts
 
