@@ -18,7 +18,7 @@ Any issues or questions regarding this package, please feel free to contact me a
 
 * The numerical representation font used for capacity amounts (Deku Nuts, Fairy Slingshot, Fairy Bow, Bombs, etc) was ripped from Ocarina of Time 3D by PwnzLPs.
 
-#### Sprites / Equipment Icons
+##### Sprites / Equipment Icons
 
 * The default sprite sheet used was ripped from Ocarina of Time by [KlydeStorm and can be downloaded from DeviantArt for Free](https://klydestorm.deviantart.com/art/Ocarina-of-Time-Icon-Pack-180384354) - I believe these are directly from the game itself, so, the icons themselves are copyright to Nintendo.
 
